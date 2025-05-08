@@ -63,7 +63,9 @@ export default function Home() {
           height={38}
           priority
         />
-
+        <a href="https://www.producthunt.com/posts/tierwise?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-tierwise" target="_blank">
+          <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=957803&theme=light&t=1746709950519" alt="TierWise - Strategic&#0032;pricing&#0032;for&#0032;AI&#0032;products | Product Hunt"
+            width="250" height="54" /></a>
         <div className="space-y-4">
           <p className="text-lg text-slate-600 dark:text-slate-400">
             <b>TierWise</b> - Strategic pricing for AI products
@@ -98,6 +100,8 @@ export default function Home() {
                 <Button type="submit" className="w-full bg-[#1b263b] hover:bg-[#1b263b]/90" disabled={isSubmitting}>
                   {isSubmitting ? 'Submitting...' : 'Join Waitlist'}
                 </Button>
+
+
               </form>
             </Form>
           </div>
