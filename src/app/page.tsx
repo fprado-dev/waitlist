@@ -69,8 +69,7 @@ export default function Home() {
             <b>TierWise</b> - Strategic pricing for AI products
           </p>
           <p className="text-md text-pretty text-muted-foreground ">
-            A guided, wizard-style platform that assists founders in creating optimal pricing tier structures through AI-powered recommendations, cost calculations, and industry benchmarking. It features an intuitive pricing tier builder.
-
+            We apologize, but due to overwhelming demand, our servers are currently at capacity. Join our waitlist to be notified when we can welcome new users to TierWise and help you optimize your AI product pricing strategy.
           </p>
         </div>
 
